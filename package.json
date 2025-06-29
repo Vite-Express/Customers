@@ -1,5 +1,5 @@
 {
-  "name": "jacksun-react-template",
+  "name": "cito-customer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "@tailwindcss/vite": "^4.0.17",
     "@tanstack/react-query": "^5.71.0",
     "axios": "^1.8.4",
+    "clsx": "^2.1.1",
     "framer-motion": "^12.6.2",
     "lucide-react": "^0.485.0",
     "react": "^19.0.0",
