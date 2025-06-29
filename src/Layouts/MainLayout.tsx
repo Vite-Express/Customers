@@ -1,14 +1,8 @@
-// import { Header } from "@/components/main";
-import { Footer } from "@/components/ui";
 
-const MainLayout = ({ children }: { children: React.ReactNode }) => {
+const MainLayout = () => {
   return (
-    <>
-      {/* <Header /> */}
-      <main className="space-y-10 md:space-y-20 py-10">{children}</main>
-      <Footer />
-    </>
-  );
-};
+    <div>MainLayout</div>
+  )
+}
 
-export default MainLayout;
+export default MainLayout
